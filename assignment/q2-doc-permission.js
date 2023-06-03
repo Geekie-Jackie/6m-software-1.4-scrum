@@ -96,7 +96,6 @@ class Document extends Permission {
 }
 
 //Testing 3 Scenarios
-
 // Scenario 1:
 const d1 = new Document(
   Permission.RolesConst.EDITOR,
